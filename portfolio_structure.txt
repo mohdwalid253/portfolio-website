@@ -1,0 +1,63 @@
+walid_portfolio_clean
+├── certificates
+│   ├── certificate_images
+│   │   ├── advanced_excel_specialist.png
+│   │   ├── generative_ai_chatgpt_specialist_.png
+│   │   ├── generative_ai_prompt_engineer.png
+│   │   ├── internship_certificate.png
+│   │   ├── machine_learning_specialist_.png
+│   │   ├── masters_in_business_analytics.png
+│   │   ├── masters_in_data_analytics.png
+│   │   ├── masters_in_data_science.png
+│   │   ├── powerbi_specialist_.png
+│   │   ├── python_specialist_.png
+│   │   ├── sql_specialist_.png
+│   │   └── tableau_specialist_.png
+│   ├── advanced_excel_specialist.pdf
+│   ├── generative_ai_chatgpt_specialist_.pdf
+│   ├── generative_ai_prompt_engineer.pdf
+│   ├── internship_certificate.pdf
+│   ├── machine_learning_specialist_.pdf
+│   ├── masters_in_business_analytics.pdf
+│   ├── masters_in_data_analytics.pdf
+│   ├── masters_in_data_science.pdf
+│   ├── powerbi_specialist_.pdf
+│   ├── python_specialist_.pdf
+│   ├── sql_specialist_.pdf
+│   └── tableau_specialist_.pdf
+├── profile_photo
+│   └── mohd_walid_ansari.png
+├── projects
+│   ├── airlines-customer-segmentation-clustering
+│   │   ├── images
+│   │   │   ├── dendrogram.png
+│   │   │   └── elbow_plot.png
+│   │   ├── reports
+│   │   │   └── airlines_clustering.html
+│   │   └── readme.md
+│   ├── ecommerce-analytics-project
+│   │   ├── dashboard
+│   │   │   ├── business_performance_dashboard.pptx
+│   │   │   ├── olist_dashboard.pbix
+│   │   │   └── olist_dashboard.pdf
+│   │   ├── images
+│   │   │   ├── dashboard
+│   │   │   │   ├── 01_executive_overview.jpg
+│   │   │   │   ├── 02_revenue_trends.jpg
+│   │   │   │   ├── 03_customer_insights.jpg
+│   │   │   │   └── 04_delivery_performance.jpg
+│   │   │   └── sql_outputs
+│   │   │       ├── 07_01_revenue_trend.png
+│   │   │       ├── 07_02_delivery_performance.png
+│   │   │       ├── 07_03_customer_retention.png
+│   │   │       └── 07_04_cohort_analysis.png
+│   │   └── readme.md
+│   └── sales-supermarket-analysis-power-bi
+│       ├── dashboards
+│       │   └── sales_supermarket_analysis.pbix
+│       ├── images
+│       │   ├── forecast_dashboard.png
+│       │   └── sales_dashboard.png
+│       └── readme.md
+└── resume_pdf
+    └── mohd_walid_ansari_data_analyst_resume.pdf
